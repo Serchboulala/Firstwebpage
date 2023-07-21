@@ -1,0 +1,36 @@
+.main-inicio{
+  display: flex;
+  flex-direction: column;
+  margin-left:  70px;
+  margin-top: 70px;
+  padding: 50px;
+  align-items: center;
+  justify-items: center;
+}
+.piramid-img{
+  width: 400px;
+  
+}
+.main-mid{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.main-mid-text{
+  flex: 1;
+  
+}
+.main-kanji{
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  writing-mode: vertical-lr;
+  font-size: 80px;
+}
+.main-intro{
+  flex: 3;
+  padding-right: 200px;
+  text-align: justify;
+  text-justify: inter-word;
+
+}

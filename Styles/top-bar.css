@@ -1,0 +1,27 @@
+.top-bar-cont{
+  position: fixed;
+  display: flex;
+  top: 0;
+  left: 70px;
+  right: 0;
+  height: 70px;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 0 0 50px;
+  
+  background-color:rgb(33, 33, 33) ;
+  z-index: 2;
+}
+.name-top{
+  font-size: 30px;
+  flex: 1;
+}
+.console-left{
+  font-size: 30px;
+  height: 70px;
+
+}
+.plus-menu-button{
+  height: 70px;
+  width: 70px;
+}

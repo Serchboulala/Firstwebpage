@@ -1,0 +1,18 @@
+body{
+  font-family: Kosugi Maru;
+  background-color: rgb(33, 33, 33);
+  color: rgb(175, 175, 175);
+}
+div{
+  margin: 0;
+}
+button{
+  background-color: rgb(33, 33, 33);  
+  border: 0;
+  align-items: center;
+  cursor: pointer;
+  color: rgb(175, 175, 175);
+}
+button:hover{
+  background-color: rgb(56, 56, 56);  
+}
